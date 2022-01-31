@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  clients_name: MyString
+  source: MyString
+  product: MyString
+  renewal_date: 2022-01-31
+  premium: 1
+  income: 1
+  notes: MyString
+  underwriter: MyString
+
+two:
+  clients_name: MyString
+  source: MyString
+  product: MyString
+  renewal_date: 2022-01-31
+  premium: 1
+  income: 1
+  notes: MyString
+  underwriter: MyString
